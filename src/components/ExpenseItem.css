@@ -7,7 +7,7 @@
   margin: 1rem 0.5rem;
   border-radius: 12px;
   background-color: #4b4b4b;
-  max-width: 600px;
+  /* max-width: 600px; */
 }
 
 .expense-item__description {
